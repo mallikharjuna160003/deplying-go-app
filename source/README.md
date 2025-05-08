@@ -16,4 +16,11 @@ The server will start on port 8080. You can access it by navigating to `http://l
 
 ![Website](static/images/golang-website.png)
 
+# Containerization
+- Created multi-stage docker file, build the image and run the contianer
+```sh
+docker build -t a6j0n/go-web-app:v1
+docker run -p 8080:8080 -d -t a6j0n/go-web-app:v1
+```
+
 
