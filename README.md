@@ -14,7 +14,7 @@ The server will start on port 8080. You can access it by navigating to `http://l
 
 ## Looks like this
 
-https://github.com/mallikharjuna160003/deplying-go-app/blob/main/Screenshot%20from%202025-05-08%2018-57-32.png
+![image](https://github.com/user-attachments/assets/34e4b042-de51-468e-af2d-7b9a97d1d9d5)
 
 # Containerization
 - Created multi-stage docker file, build the image and run the contianer
